@@ -3,7 +3,7 @@
 ## Approach
 I applied the principles of Object-Oriented Programming and SOLID to ensure good design. I began by making the abstract vehicle class so it can centralize common functionality and provide flexibility about the type of vehicle used in Invoice.
 Then I implemented each of the Car,MotorCycle and CargoVan classes by inheriting the vehicle class while adding speicific attributes and behaviour. Then finally I created the invoice class 
-that has several methods for calculations and print method that prints the invoice for each vehicle.
+that has several methods for calculations and print method that displays all the data needed for invoice.
 
 ### Classes
 
